@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Ang Pei Shan Nicole",
+        "email": "21009632@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
